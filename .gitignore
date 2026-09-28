@@ -1,0 +1,4 @@
+.venv
+ML-service/data/
+*.pkl
+ML-service/__pycache__/
